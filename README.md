@@ -1,2 +1,14 @@
-# 28.-AI-CHATBOT
-AI Chatbot is an intelligent virtual assistant that uses natural language processing to interact with users, answer queries, and perform tasks. It provides 24/7 support, personalized responses, and automated assistance, making communication seamless for businesses, websites, and applications.
+# AI ChatBot Magic
+
+This is a professional AI Chatbot project using Flask (python) backend + Frontend.
+
+## Features
+- Powered by OpenAi GPT
+- Stylish animated UI
+- Mobile responsive
+- Smart auto-replies
+- Easy to deploy
+
+## Run Instructions
+1. Clone repository
+2. Install backend dependencies
